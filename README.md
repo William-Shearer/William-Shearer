@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @William-Shearer
 - 👀 I’m interested in C (re-learning forgotten things & learning new things)
 - 🌱 Currently learning the SDL2 API,
-- :computer: And taking CS50 course.
-- 💞️ I’m working on simulation game development and associated utilities
+- :computer: Recently passed CS50X and CS50P.
+- 🐍 Striving to learn Python3 in greater depth.
+- 💞️ I’m working on simulation game development and associated utilities.
 - 📫 How to reach me: right here on GitHub, or... 
 - 📫 By PM on https://discourse.libsdl.org/ user @William-K
 - 📫 As The Black Vegetable#0489 on Discord
