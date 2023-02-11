@@ -7,6 +7,7 @@
 - 💞️ I’m working on simulation game development and associated utilities.
 - 📫 How to reach me: right here on GitHub, or... 
 - 📫 By PM on https://discourse.libsdl.org/ user @William-K
+- 📫 e-mail: misanthropus_ornatus@live.com
 
 <!---
 William-Shearer/William-Shearer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
