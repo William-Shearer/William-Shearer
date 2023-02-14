@@ -11,7 +11,7 @@
 - 📫 e-mail: misanthropus_ornatus@live.com  
 
 Additional info:  
-I am an old guy. I have been hobby programming in various (many) languages and on several platforms since 1986. I do not work as a programmer, though knowledge of it has often helped me in what work I did do, quite extensively. Obtaining "official" programming certificates with HarvardX was merely closing the circle of something that turned out to be a life-long interest, which all those years ago I thought was only a passing phase. I was wrong.  
+I am an old guy. I have been hobby programming in various (many) languages and on several platforms since 1986. I do not work as a programmer, though knowledge of it has often helped me in what other work I did, quite extensively. Obtaining "official" programming certificates with HarvardX is merely closing the circle of something that turned out to be a life-long interest. 
 Best wishes to anyone who visits here.   
 <!---
 William-Shearer/William-Shearer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
