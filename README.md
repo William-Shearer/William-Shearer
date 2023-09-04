@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @William-Shearer
-- 👀 I’m interested mostly in C (re-learning forgotten things & learning new things)
-- 🐍 Likes: SDL2, Django, Python3, C
+- 🐍 Likes: Python3, Django, C
 - :computer: CS50X, CS50P, and CS50W (2022-2023).
 - 📫 How to reach me: right here on GitHub
 
